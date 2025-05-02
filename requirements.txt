@@ -1,0 +1,7 @@
+transformers>=4.30.0 # Or a specific recent version
+torch>=2.0.0        # Or a specific recent version compatible with transformers & cuda version in space
+torchvision>=0.15.0 # Or a specific recent version compatible with torch
+gradio>=4.0.0        # Or a specific recent version
+Pillow>=9.0.0
+accelerate>=0.20.0   # Often helpful, especially with safetensors
+numpy
