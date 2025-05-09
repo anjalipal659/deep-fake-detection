@@ -58,3 +58,10 @@ deep-fake-detection/
 │   ├── tokenizer_config.json
 │   └── ... (other Hugging Face model files)
 ```
+
+
+### run locally
+```bash
+git clone https://huggingface.co/spaces/AnjaliPal06/deep-fake-detection
+```
+cd deep-fake-detection
