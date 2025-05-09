@@ -64,4 +64,20 @@ deep-fake-detection/
 ```bash
 git clone https://huggingface.co/spaces/AnjaliPal06/deep-fake-detection
 ```
+
+go to deep-fake-detection
+```bash
 cd deep-fake-detection
+```
+
+install requirements
+```bash
+pip install -r requirements.txt
+```
+
+to run
+```bash
+python app.py
+```
+
+
