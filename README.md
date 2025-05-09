@@ -80,4 +80,15 @@ to run
 python app.py
 ```
 
+# screen shorts
+
+![Screenshot 2025-05-09 235424](https://github.com/user-attachments/assets/9d14898b-c43b-4295-9264-9e8d3f5faa26)
+
+
+
+![Screenshot 2025-05-09 235552](https://github.com/user-attachments/assets/2acb403e-c24a-487a-95db-c96df78990d0)
+
+
+
+
 
