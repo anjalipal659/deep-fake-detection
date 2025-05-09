@@ -8,7 +8,7 @@ This is a **Deepfake Detection web application** that uses a fine-tuned Vision T
 
 ## 🌐 Live Demo
 
-👉 **Try the App Here**: [https://huggingface.co/spaces/AnjaliPal06/deep-fake-detection](https://huggingface.co/spaces/AnjaliPal06/deep-fake-detection)
+👉 **Try the App Here**: [deep fake detection](https://huggingface.co/spaces/AnjaliPal06/deep-fake-detection)
 
 ---
 
